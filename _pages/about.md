@@ -100,11 +100,20 @@ My research interests include **Embodied Artificial Intelligence** and **Large L
 # Master Students
 - **Dongyang Wang**（王东阳）, working on robotic grasping (co-supervised with Prof.Tianrui Li)
 - **Jiaxin Yang** （杨佳欣）, working on continual learning (co-supervised with Prof.Tianrui Li)
-- **Yang Liu** (刘洋)， working on Multimodal Large Models (co-supervised with Prof.Fengmao Lv)
-- **Junchen Li**（李俊辰）, working on Robotic Affordances (co-supervised with Prof.Fengmao Lv)
+- **Yang Liu** (刘洋)， working on Multimodal Large Models (co-supervised with Prof.Prof.Fengmao Lv)
+- **Junchen Li**（李俊辰）, working on Robotic Affordances 
+- **Bo Kang** (康博), working on Robotic Affordances
+- **Junjie Gong** (龚俊杰)
+- **Chong Liu** (刘聪)
+- **Xuanyu He** (何语轩), working on 4D reconstruction for robotic manipulation (co-supervised with Prof.Prof.Fengmao Lv)
+- **Jie Liu** (刘杰), working on Robotic manipulation (co-supervised with Prof.Prof.Fengmao Lv)
+- **Jiangrong Chen** (陈姜蓉), working on Robotic manipulation (co-supervised with Prof.Prof.Fengmao Lv)
+- **Pu Miao** (苗浦), working on Robotic manipulation (co-supervised with Prof.Prof.Fengmao Lv)
+
+
 
 # PhD Students
-- **Yixin Liu** (刘奕忻)， working on robot perception (co-supervised with Prof.Deshuang Huang)
+- **Lin Zhu** (朱琳)， working on robot perception (co-supervised with Prof.Tianrui Li)
 
 
 # 🗺️ Visitor Map
