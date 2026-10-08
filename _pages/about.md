@@ -25,7 +25,6 @@ I am currently an assistant professor at School of Computing and Artificial Inte
 
 My research interests include **Embodied Artificial Intelligence** and **Large Language Models**. 
 
-I have published several papers at conferences and journals. My publication received a total <a href='https://scholar.google.com/citations?user=RH7KxSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
 - *2026.10*: 🎉 One paper is accepted by TIP
