@@ -20,7 +20,7 @@ redirect_from:
 
 # 🔥🔥🔥 I am seeking Master's students; please feel free to contact me.
 
-I am currently an assistant professor at School of Computing and Artificial Intelligence, Southwest Jiaotong University (SWJTU). Within SWJTU, I'm member of [Prof.Tianrui Li](https://scholar.google.com/citations?hl=en&user=CQ1HneMAAAAJ). I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
+I am currently an assistant professor at School of Computing and Artificial Intelligence, Southwest Jiaotong University (SWJTU). Within SWJTU, I'm member of [Prof.Tianrui Li](https://scholar.google.com/citations?hl=en&user=CQ1HneMAAAAJ)‘s research group. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
 
 My research interests include **Embodied Artificial Intelligence** and **Large Language Models**. 
