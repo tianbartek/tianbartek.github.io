@@ -20,7 +20,7 @@ redirect_from:
 
 # 🔥🔥🔥 I am seeking Master's students; please feel free to contact me.
 
-I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
+I am currently an assistant professor at School of Computing and Artificial Intelligence, Southwest Jiaotong University (SWJTU). Within SWJTU, I'm member of [Prof.Tianrui Li](https://scholar.google.com/citations?hl=en&user=CQ1HneMAAAAJ). I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
 
 My research interests include **Embodied Artificial Intelligence** and **Large Language Models**. 
@@ -28,6 +28,7 @@ My research interests include **Embodied Artificial Intelligence** and **Large L
 I have published several papers at conferences and journals. My publication received a total <a href='https://scholar.google.com/citations?user=RH7KxSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
+- *2026.10*: 🎉 One paper is accepted by TIP
 - *2024.10*: 🎉 I become an assistant professor at Southwest Jiaotong University
 - *2024.08*: 🎉 Graduated from Queen Mary University of London, grateful to my supervisor [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en).
 - *2024.07*: 🎉 One paper is accepted by ICPR 2024
